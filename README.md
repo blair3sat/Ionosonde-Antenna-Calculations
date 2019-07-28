@@ -1,3 +1,3 @@
-# Ionosonde Antenna Calculation
+# Ionosonde Passive Receiver
 
-Break down of how antenna length v. power was calculated.
+Calculations.
